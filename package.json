@@ -1,10 +1,20 @@
 {
   "name": "cs-theme",
-  "displayName": "C#-theme",
+  "displayName": ".NET-theme",
   "description": "A theme following the colors used by official page of C# for backend https://dotnet.microsoft.com/en-us/apps/aspnet/apis",
+  "publisher": "Youngio9",
   "version": "0.0.1",
+  "author": {
+    "name": "Giovani de SOUZA",
+    "email": "giovanidesouza.pro@gmail.com",
+    "url": "https://www.linkedin.com/in/giovani-de-souza-/"
+  },
   "engines": {
     "vscode": "^1.90.0"
+  },
+  "repository": {
+    "url": "https://github.com/YounGio9/dotnet-theme-extension.git",
+    "type": "git"
   },
   "categories": [
     "Themes"
