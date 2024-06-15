@@ -1,0 +1,21 @@
+{
+  "name": "cs-theme",
+  "displayName": "C#-theme",
+  "description": "A theme following the colors used by official page of C# for backend https://dotnet.microsoft.com/en-us/apps/aspnet/apis",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "backend-donet-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/backend-donet-theme-color-theme.json"
+      }
+    ]
+  }
+}
